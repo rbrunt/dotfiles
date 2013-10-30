@@ -1,0 +1,5 @@
+[user]
+	name = Richard Brunt
+	email = r.brunt@gmail.com
+[credential]
+	helper = cache
